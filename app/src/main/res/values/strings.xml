@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hiker</string>
+    <string-array name="cities_array">
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Manipal</item>
+        <item>Kolkata</item>
+        <item>Bangalore</item>
+        <item>Chennai</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
