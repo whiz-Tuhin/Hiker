@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void SignIn(View v){
         if((username.getText().toString()).equals("abc") && (password.getText().toString()).equals("efg")){
-            startActivity(new Intent(MainActivity.this,MapsActivity.class ));
+            startActivity(new Intent(MainActivity.this,NavigationDrawer.class ));
         }
         else{
             makeToast("Incorrect Username or Password");
